@@ -1,0 +1,17 @@
+body{
+  background-color: blue;
+}
+
+
+#cabezera{
+  width: auto;
+  height: 100px;
+  background-color: yellow;
+}
+
+#contenedor{
+  background-color: black;
+  width: 900px;
+  height: 700px;
+  margin: 0 auto;
+}
